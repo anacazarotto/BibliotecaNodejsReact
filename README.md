@@ -1,19 +1,15 @@
-### Basic Project with NodeJS + Express (PostgreSQL) and React
+### Projeto com NodeJS + Express (PostgreSQL) e React
 
-### Run project Backend:
-```
-cd back-end
-npm install
-node server.js
-```
+### Execute o back-end do projeto:
+back-end do CD
+instalação npm
+nó server.js
 
-### Run project Backend:
-```
-cd front-end
-npm install
-npm start
-```
+### Execute o front-end do projeto:
+front-end do CD
+instalação npm
+npm início
 
-Examples JSON in back-end/server.js with URLs endpoints
+Exemplos JSON em back-end/server.js com endpoints de URLs
 
-Basic Library based in ER Diagram with Models and Controllers. It is a simple application.
+Biblioteca Básica baseada em Diagrama ER com Modelos e Controladores, feita para a disciplina do projeto integrador.
